@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  color: #aaaaaa;
+  font-family: monospace;
+}
+
+a {
+  color: #aaaaaa;
+}
+
+h1 a{
+  text-decoration: none;
+}
